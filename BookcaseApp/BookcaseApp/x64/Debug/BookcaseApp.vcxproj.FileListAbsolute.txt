@@ -1,0 +1,2 @@
+C:\Users\vladislav\Desktop\BookcaseApp\x64\Debug\BookcaseApp.exe.lastcodeanalysissucceeded
+C:\Users\vladislav\Desktop\BookcaseApp\BookcaseApp\x64\Debug\NativeCodeAnalysis.read.1.tlog

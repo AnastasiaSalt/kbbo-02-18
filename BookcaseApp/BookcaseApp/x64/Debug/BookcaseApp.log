@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Book.cpp
+  BookcaseApp.cpp
+  BookShelf.cpp
+  PrintBook.cpp
+  Shelf.cpp
+  Компиляция...
+  Создание кода...
+C:\Users\vladislav\Desktop\BookcaseApp\BookcaseApp\BookShelf.cpp(32): warning C4715: BookShelf::getBook: значение возвращается не при всех путях выполнения
+  BookcaseApp.vcxproj -> C:\Users\vladislav\Desktop\BookcaseApp\x64\Debug\BookcaseApp.exe
